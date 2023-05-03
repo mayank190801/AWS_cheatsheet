@@ -1,2 +1,3 @@
 Here we will have all the aws consolidated information at one place for the best of this world, simple as that
 - made couple more changes -- 
+Here we will have more data changes in AWS and proper goals schedule
